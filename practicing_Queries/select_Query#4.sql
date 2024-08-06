@@ -1,0 +1,1 @@
+Select * from master.dbo.Orders where Freight < 10 and ShipCity = 'London'

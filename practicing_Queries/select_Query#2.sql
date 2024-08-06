@@ -1,0 +1,1 @@
+select Orders.OrderDate, Orders.ShipCity From master.dbo.Orders
